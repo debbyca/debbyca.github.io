@@ -1,4 +1,114 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Ghost in the Machine</title><description>Thoughts, stories and ideas.</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Mon, 23 Nov 2015 12:10:44 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Notes on Webcam (2014)</title><description>&lt;blockquote&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Ghost in the Machine</title><description>Thoughts, stories and ideas.</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Mon, 23 Nov 2015 21:17:47 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Notes on the 11/23 Lecture</title><description>&lt;h1 id="whatistheory"&gt;What is Theory?&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Miller: started his career as a theorist
+&lt;ul&gt;&lt;li&gt;UCL Anthro was a Marxist department (Althusserian-Marx, late Marx)&lt;/li&gt;
+&lt;li&gt;Structuralism, Poststructuralism&lt;/li&gt;
+&lt;li&gt;Modes of production, Capitalism, Alienation…&lt;/li&gt;
+&lt;li&gt;Miller likes early Marx, Hegel&lt;/li&gt;
+&lt;li&gt;“All problems in the world arise out of capitalism.“ Hegel: whatever that is created in the world goes its&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;</description><link>http://localhost:2368/notes-on-the-11-23-lecture/</link><guid isPermaLink="false">dd157286-bedc-4ec6-9d5a-22b99038863f</guid><category>Digital Anthropology</category><category>Mediation</category><category>Polymedia</category><category>Ethnography</category><dc:creator>Debby</dc:creator><pubDate>Mon, 23 Nov 2015 21:16:03 GMT</pubDate><content:encoded>&lt;h1 id="whatistheory"&gt;What is Theory?&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Miller: started his career as a theorist
+&lt;ul&gt;&lt;li&gt;UCL Anthro was a Marxist department (Althusserian-Marx, late Marx)&lt;/li&gt;
+&lt;li&gt;Structuralism, Poststructuralism&lt;/li&gt;
+&lt;li&gt;Modes of production, Capitalism, Alienation…&lt;/li&gt;
+&lt;li&gt;Miller likes early Marx, Hegel&lt;/li&gt;
+&lt;li&gt;“All problems in the world arise out of capitalism.“ Hegel: whatever that is created in the world goes its own way - dialectical &lt;/li&gt;
+&lt;li&gt;Material culture&lt;/li&gt;
+&lt;li&gt;Emphasis on production is insufficient; consumption is also effective&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Internet: an Ethnographic Approach&lt;/em&gt;
+&lt;ul&gt;&lt;li&gt;how Trinidadians appropriate Internet -&gt; the product: both Trinidadians and the Internet (what emerges in this context)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Young and the Restless&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Theory? 
+&lt;ul&gt;&lt;li&gt;Hegel: all the things (e.g. institutions) we create tend to become the concept of reason, but they tend to develop their own interests
+&lt;ul&gt;&lt;li&gt;Bourdieu’s &lt;em&gt;Distinction&lt;/em&gt;: art and class -&gt; art comes from certain aethestics (needs to be taught in school) -&gt; reproduction of our class system (in the education camp who understand art; artistic capital); art is another sense of education, becoming increasingly complex. Art extends the world of class through education by distinguishing who understands and who doesn’t. -&gt; theory: education’s version of modern art -&gt; career structures -&gt; propensity of class differentiation&lt;/li&gt;
+&lt;li&gt;Academia: fads? fashion?&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;How do you distinguish useful and useless stuff?
+&lt;ul&gt;&lt;li&gt;Make things clearer (things can be understood more clearly)&lt;/li&gt;
+&lt;li&gt;Accountable, be able to be explained in ordinary language&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;What are the means and ends? Can we turn the ends to the means?&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="polymedia"&gt;Polymedia&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If you want to understand new media, find a circumstance that can tease it out.
+&lt;ul&gt;&lt;li&gt;Filipino mothers - the degree they can be mother depends on the media they can use&lt;/li&gt;
+&lt;li&gt;Texting&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Theorize the media + relationships&lt;/li&gt;
+&lt;li&gt;Kinship: any given kinship word we use:
+&lt;ul&gt;&lt;li&gt;normative word: proper roles they play - &lt;em&gt;Theory of Shopping&lt;/em&gt; (1995)&lt;/li&gt;
+&lt;li&gt;discrepancy: how we think of the idealized role and what the role really is&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Media studies: technology in itself vs. Anthropology: relationships
+&lt;ul&gt;&lt;li&gt;technologists: affordances (the propensities the technology would be good for something)
+&lt;ul&gt;&lt;li&gt;Backwards: affordances -&gt; what people are actually doing&lt;/li&gt;
+&lt;li&gt;Power relationships
+&lt;ul&gt;&lt;li&gt;Mothers: reconstruction of mothering/parenting&lt;/li&gt;
+&lt;li&gt;Children: surveillance&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;relationships&lt;/li&gt;
+&lt;li&gt;See how they come together: &lt;strong&gt;Polymedia&lt;/strong&gt;: resocialization&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="expectations"&gt;Expectations&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;(Hopefully) Clarifies what’s going on in those relationships&lt;/li&gt;
+&lt;li&gt;Is it necessary? Helpful?&lt;/li&gt;
+&lt;li&gt;Every media is treated the same way
+&lt;ul&gt;&lt;li&gt;Loss of humanity&lt;/li&gt;
+&lt;li&gt;Post-human, cyborgs&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Anthropology: nothing is unmediated&lt;/li&gt;
+&lt;li&gt;Change our idea of humanity is
+&lt;ul&gt;&lt;li&gt;Most people use it conservatively&lt;/li&gt;
+&lt;li&gt;Webcam: an aspect of being human&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Oliver Sachs
+&lt;ul&gt;&lt;li&gt;a surgeon&lt;/li&gt;
+&lt;li&gt;humanistic characteristics&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Clive Thompson
+&lt;ul&gt;&lt;li&gt;memories&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Theory: the ways we understand technology. It’s a means, not an end.
+&lt;ul&gt;&lt;li&gt;not for testing; rather a re-conceptualization in order to gain insight&lt;/li&gt;
+&lt;li&gt;balance generality (generalization of theories) and parochialism (the parochialism of ethnography)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="webcam2014"&gt;Webcam (2014)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Latency: tautology
+&lt;ul&gt;&lt;li&gt;frustration over something that doesn’t work well
+&lt;ul&gt;&lt;li&gt;Adam Drazin: shoebox&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;It’s overcome&lt;/li&gt;
+&lt;li&gt;We envisage possibilities (afterwards)
+&lt;ul&gt;&lt;li&gt;E.g. e-mail (temporality) for theological discussions&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="ethnographyvstheory"&gt;Ethnography vs. Theory&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Anthropology: parochial approach -&gt; understanding of the humanity&lt;/li&gt;
+&lt;li&gt;How it works in research
+&lt;ul&gt;&lt;li&gt;science: hypothesis -&gt; testing it out in the field&lt;/li&gt;
+&lt;li&gt;most anthropologists don’t do that (Miller)&lt;/li&gt;
+&lt;li&gt;because you’ll find what you were looking for&lt;/li&gt;
+&lt;li&gt;no idea of if what one’s studying is relevant&lt;/li&gt;
+&lt;li&gt;Ethnography
+&lt;ul&gt;&lt;li&gt;studying everything possible&lt;/li&gt;
+&lt;li&gt;insights&lt;/li&gt;
+&lt;li&gt;explanation&lt;/li&gt;
+&lt;li&gt;theory (conclusion) -&gt; not always&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Repetitive vs. Variant&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Criteria: original insight&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="mediation"&gt;Mediation&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;To be human is to be mediated. -&gt; &lt;strong&gt;Culture&lt;/strong&gt;: Human beings are intrinsically mediated.&lt;/li&gt;
+&lt;li&gt;You can’t say a new media makes people more mediated.&lt;/li&gt;
+&lt;li&gt;New media changes mediation. (added something and subtracted something)&lt;/li&gt;
+&lt;li&gt;Miller: Opposing different degrees of authenticity of Polynesia communities and people shopping on Oxford Street&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title>Notes on Webcam (2014)</title><description>&lt;blockquote&gt;
   &lt;p&gt;If there is a dominant topic within anthropology it is, and probably should be, the study of relationships. Anthropologists recognize that there are no unmediated, pure relationships. All the ways in which relationships exist, including communication, are cultural activities.&lt;/p&gt;
   
   &lt;p&gt;(Miller and Sinanan, 2014, pp. 3-4)&lt;/p&gt;
