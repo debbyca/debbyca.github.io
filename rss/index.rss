@@ -1,4 +1,222 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Ghost in the Machine</title><description>Thoughts, stories and ideas.</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Mon, 23 Nov 2015 21:17:47 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Notes on the 11/23 Lecture</title><description>&lt;h1 id="whatistheory"&gt;What is Theory?&lt;/h1&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Ghost in the Machine</title><description>Thoughts, stories and ideas.</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Thu, 26 Nov 2015 09:39:56 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Presentation slides on Hughes, Bijker, Pfaffenberger</title><description>&lt;iframe src="//slides.com/debbyca/deck/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen&gt;&lt;/iframe&gt;</description><link>http://localhost:2368/presentation-slides-on-hughes-bijker-pfaffenberger/</link><guid isPermaLink="false">bd7f5113-a11f-4ab3-8c99-e94e383aad53</guid><category>SSK</category><category>STS</category><category>SCOT</category><category>History of Technology</category><dc:creator>Debby</dc:creator><pubDate>Thu, 26 Nov 2015 09:38:47 GMT</pubDate><content:encoded>&lt;iframe src="//slides.com/debbyca/deck/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen&gt;&lt;/iframe&gt;</content:encoded></item><item><title>From SSK to SCOTs to STS</title><description>&lt;h1 id="fromssktoscotsandststhemacroanalysisofsociotechnicalsystems"&gt;From SSK to SCOTs and STS: The macro analysis of Sociotechnical Systems&lt;/h1&gt;
+
+&lt;h2 id="theconnectednessoftechniquestechnicalsystems"&gt;The Connectedness of Techniques &amp;amp; “Technical Systems”&lt;/h2&gt;
+
+&lt;h3 id="technicalsystems"&gt;Technical Systems?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Influence of the General System Theory&lt;/li&gt;
+&lt;li&gt;Technical Systems: Gille&lt;/li&gt;
+&lt;li&gt;Systems:&lt;/li&gt;
+&lt;li&gt;All techniques are related&lt;/li&gt;
+&lt;li&gt;Techniques are &lt;strong&gt;never&lt;/strong&gt; isolated from other phenomena&lt;/li&gt;
+&lt;li&gt;Changes in &lt;strong&gt;one&lt;/strong&gt; element &lt;em&gt;might&lt;/em&gt; affect other elements&lt;/li&gt;&lt;/ul&gt;</description><link>http://localhost:2368/from-ssk-to-scots-to-sts/</link><guid isPermaLink="false">908d1101-c931-4cf7-b167-3fe57d2b7da5</guid><category>SSK</category><category>SCOT</category><category>STS</category><category>History of Technology</category><dc:creator>Debby</dc:creator><pubDate>Wed, 25 Nov 2015 14:27:45 GMT</pubDate><content:encoded>&lt;h1 id="fromssktoscotsandststhemacroanalysisofsociotechnicalsystems"&gt;From SSK to SCOTs and STS: The macro analysis of Sociotechnical Systems&lt;/h1&gt;
+
+&lt;h2 id="theconnectednessoftechniquestechnicalsystems"&gt;The Connectedness of Techniques &amp;amp; “Technical Systems”&lt;/h2&gt;
+
+&lt;h3 id="technicalsystems"&gt;Technical Systems?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Influence of the General System Theory&lt;/li&gt;
+&lt;li&gt;Technical Systems: Gille&lt;/li&gt;
+&lt;li&gt;Systems:&lt;/li&gt;
+&lt;li&gt;All techniques are related&lt;/li&gt;
+&lt;li&gt;Techniques are &lt;strong&gt;never&lt;/strong&gt; isolated from other phenomena&lt;/li&gt;
+&lt;li&gt;Changes in &lt;strong&gt;one&lt;/strong&gt; element &lt;em&gt;might&lt;/em&gt; affect other elements&lt;/li&gt;
+&lt;li&gt;Lemonnier “Techniques from system” because of the relations between
+&lt;ol&gt;&lt;li&gt;… Different “components” of techniques&lt;/li&gt;
+&lt;li&gt;… Different technical activities
+&lt;ul&gt;&lt;li&gt;“Vertical” (chronological)&lt;/li&gt;
+&lt;li&gt;“Horizontal” (complimentary)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Technical domains and other domains&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="systemicdimensions"&gt;Systemic Dimensions&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;“Systems”: whole(s), part(s) and relations
+&lt;ul&gt;&lt;li&gt;Interrelated elements&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Extension to the concept of “Society”
+&lt;ul&gt;&lt;li&gt;From Durkheim to Evans-Pritchard’s&lt;/li&gt;
+&lt;li&gt;Structuro-functionalism&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Critique
+&lt;ul&gt;&lt;li&gt;Mechanistic view&lt;/li&gt;
+&lt;li&gt;Abstract models ~LC: etic model, linear~&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="thereturnofthesystemchaosnonlinearity"&gt;The Return of the System: Chaos, non-linearity&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Chaos, Network and New Holisms, e.g. Mosko&lt;/li&gt;
+&lt;li&gt;Alternative to Newton’s Mechanistic Universe ~irreversability~&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="innovationinquestion"&gt;Innovation in Question&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Look into how processes came into being and the resistance to the changes&lt;/li&gt;
+&lt;li&gt;After WWI and WWII, a critique of rationality, technocracy, the separation of technical processes and the turmoil life
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;social determinism&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;critique of linear (technical) determinism&lt;/li&gt;
+&lt;li&gt;between hope and fear&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="precursorsshotandssk"&gt;Precursors: SHoT and SSK&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pre 1970:
+&lt;ul&gt;&lt;li&gt;Histoy of technology (US &amp;amp; UK)
+&lt;ul&gt;&lt;li&gt;Society of History of Technology (US)&lt;/li&gt;
+&lt;li&gt;Lewis Mumford (US)&lt;/li&gt;
+&lt;li&gt;Thomas Hughes (US)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;1970: &lt;strong&gt;SSK&lt;/strong&gt;: Sociology of Scientific Knowledge
+&lt;ul&gt;&lt;li&gt;David Bloor (Edinburgh), Harry Collins (Bath)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Controversy&lt;/strong&gt;: study of the content of scientific statement (as with an artifact)
+&lt;ul&gt;&lt;li&gt;causality&lt;/li&gt;
+&lt;li&gt;impartiality (success stories and failure)&lt;/li&gt;
+&lt;li&gt;symmetry&lt;/li&gt;
+&lt;li&gt;reflexivity: applicable to sociology itself (ontology)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="studiesofmoderntechnologysources"&gt;Studies of (Modern) Technology: Sources&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1970s: Sociology of Technology&lt;/li&gt;
+&lt;li&gt;Influence of Thomas Kuhn (1962)
+&lt;ul&gt;&lt;li&gt;The Structure of Scientific Revolutions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Paradigm&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Constructivism/Constructionism
+&lt;ul&gt;&lt;li&gt;Sociology of Knowledge: Luckhman &amp;amp; Berger 1966&lt;/li&gt;
+&lt;li&gt;Critique: Hacking&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="hughestechnologicalsystems"&gt;Hughes’ Technological Systems&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Seamless web&lt;/strong&gt; (1998)&lt;/li&gt;
+&lt;li&gt;Technical Systems are both:
+&lt;ul&gt;&lt;li&gt;socially constructed&lt;/li&gt;
+&lt;li&gt;Society shaping (1989: 51)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Critique of the internalist approach&lt;/li&gt;
+&lt;li&gt;Contexual considerations
+&lt;ul&gt;&lt;li&gt;technical system emerge out of social systems&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Systemic nature (ef. Gille &amp;amp; Lemonnier)
+&lt;ul&gt;&lt;li&gt;Relate to other systems (some dependants on them)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Systems:
+&lt;ul&gt;&lt;li&gt;As problem-solving arrangements&lt;/li&gt;
+&lt;li&gt;are bounded by the limits of control exercised by artifacts and humans&lt;/li&gt;
+&lt;li&gt;are organized in Russian Dolls.
+~ America, despite the claims...~ (quoted by Pfaffenberger)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="stsandscot"&gt;STS and SCOT&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1990:
+&lt;ul&gt;&lt;li&gt;UK: SSK + STS: SCOT
+&lt;ul&gt;&lt;li&gt;Heterogeneity of technical objects&lt;/li&gt;
+&lt;li&gt;Seamless Web (Hughes)&lt;/li&gt;
+&lt;li&gt;Social Construction of Technology&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;US: (Gender and cultural studies) + STS: Science and Technology Studies
+&lt;ul&gt;&lt;li&gt;Interdisciplinary studies&lt;/li&gt;
+&lt;li&gt;Innovations, policies, power&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;MacKenzie &amp;amp; Wecjman 1985&lt;/li&gt;
+&lt;li&gt;LC: loose definition of technology (mode of organization? artifact?), but it paves ways for the academia to think about technology now&lt;/li&gt;
+&lt;li&gt;Against linear determinism&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="bicyclesandinterestgroups"&gt;Bicycles and Interest Groups&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Classical View on Innovation&lt;/li&gt;
+&lt;li&gt;Mixing of humans and non-humans; change in one element creates a new problem; a problem-solving model&lt;/li&gt;
+&lt;li&gt;material, socio-economical negotiations; prototype artifacts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="scotsmaintools"&gt;SCOT’s Main tools&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Social Groups&lt;/li&gt;
+&lt;li&gt;Technological Frame&lt;/li&gt;
+&lt;li&gt;Interpretative flexibility&lt;/li&gt;
+&lt;li&gt;Degrees of Inclusion&lt;/li&gt;
+&lt;li&gt;Attribution of Meanings&lt;/li&gt;
+&lt;li&gt;Co-construction&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="bakeliteandinterpretativeframe"&gt;Bakelite and Interpretative Frame&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;emic&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="scotbijkerandtheinventionofbakelite"&gt;SCOT: Bijker and the “Invention” of Bakelite&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Plastic Materials: resin, ivory, tortoise shell, amber
+&lt;ul&gt;&lt;li&gt;2 uses
+&lt;ul&gt;&lt;li&gt;a) Varnish&lt;/li&gt;
+&lt;li&gt;b) Moulding (Production of small objects)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;19th:
+&lt;ul&gt;&lt;li&gt;Shellac: A &amp;amp; B&lt;/li&gt;
+&lt;li&gt;Rubber: B&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Describe a series of processes of “inventions”, controversy at the end of the 19th century&lt;/li&gt;
+&lt;li&gt;Concept of “technological frame”
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Concepts&lt;/strong&gt; and &lt;strong&gt;techniques&lt;/strong&gt; employed by a &lt;strong&gt;community&lt;/strong&gt; in its &lt;em&gt;problem solving&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Includes interactions &lt;strong&gt;between&lt;/strong&gt; various actors&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;1907: Baekeland’s patent on Bakelite (stablizes the technical formula -&gt; stops the social relations/negotiations -&gt; conceals the processes it stems from)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="technologicalpoliticaldramas"&gt;Technological (Political) Dramas&lt;/h2&gt;
+
+&lt;h3 id="politicsofartifacts"&gt;Politics of Artifacts&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Langdon Winner (1977)
+&lt;ul&gt;&lt;li&gt;False neutrality of technical systems
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Autonomous&lt;/strong&gt; Technology &amp;amp; Technological Somnambulism (appears to be historical, contingent)&lt;/li&gt;
+&lt;li&gt;Difficult to see the politcal dimensions&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;“Technological politcs” ‘Technology as (political) domination:
+&lt;ul&gt;&lt;li&gt;‘Technological’ imperatives
+&lt;ul&gt;&lt;li&gt;Case study: How Internet providers established themselves as gatekeepers (effect on humans)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;“Reverse adaptation” (how we adapt to technology)&lt;/li&gt;
+&lt;li&gt;e.g. Robert Moses: class and racial prejudices (New York)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Critique on Winner’s determinism
+&lt;ul&gt;&lt;li&gt;Woolgar &amp;amp; Cooper: role of interpretation by different social groups&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Pfaffenberger (1992)
+&lt;ul&gt;&lt;li&gt;Anthropology&lt;/li&gt;
+&lt;li&gt;Relation of “Technical systems” with “non-technical” systems&lt;/li&gt;
+&lt;li&gt;Role of aesthetics, economics, social values, rituals&lt;/li&gt;
+&lt;li&gt;Proposes “Technological Dramas” as an alternative model
+&lt;ul&gt;&lt;li&gt;Cf. Victor Turner’s &lt;em&gt;social drama&lt;/em&gt; (1969)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;“Technological Dramas”: 3 processes
+&lt;ul&gt;&lt;li&gt;Regularization&lt;/li&gt;
+&lt;li&gt;Adjustment&lt;/li&gt;
+&lt;li&gt;Reconstitution&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Regularization:
+&lt;ul&gt;&lt;li&gt;Strategies for constructing hegemonic ideologies&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Adjustments:
+&lt;ul&gt;&lt;li&gt;Direct reactions to regularization (real or imagined)
+&lt;ul&gt;&lt;li&gt;e.g. Conspiration theories, claim for democratization, fiddling with artifacts&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Reconstitution:
+&lt;ul&gt;&lt;li&gt;Reshaping/creating artifacts or processes with a conscious revolutionary or resisting&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Materials that resist the determinstic nature of technical systems&lt;/li&gt;
+&lt;li&gt;Artifacts as products of the past&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="someconclusions"&gt;Some conclusions&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Techniques: embedded in the social&lt;/li&gt;
+&lt;li&gt;SSK, SCOT, STS, Pfaffenberger
+&lt;ul&gt;&lt;li&gt;Critique of the fallacy if technical determinism&lt;/li&gt;
+&lt;li&gt;Re-inject of the Social&lt;/li&gt;
+&lt;li&gt;Reliance on discourses and power relations&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Importance of relations between Paradigms and Interpretative Frame&lt;/li&gt;
+&lt;li&gt;Critique:
+&lt;ul&gt;&lt;li&gt;Defition of Social groups&lt;/li&gt;
+&lt;li&gt;What is the relations btw Technological Frame and power relations&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title>Notes on the 11/23 Lecture</title><description>&lt;h1 id="whatistheory"&gt;What is Theory?&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Miller: started his career as a theorist
