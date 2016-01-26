@@ -1,4 +1,1115 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Ghost in the Machine</title><description>Thoughts, stories and ideas.</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Wed, 02 Dec 2015 21:40:18 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Book Launch: In War: Stories from Ukraine</title><description>&lt;h1 id="inwarstoriesfromukraine"&gt;In War: Stories from Ukraine&lt;/h1&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Ghost in the Machine</title><description>Thoughts, stories and ideas.</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Tue, 26 Jan 2016 19:01:02 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Notes on "The De-scription of Technical Objects"</title><description>&lt;p&gt;Akrich, Madeleine. 1992. “The De-Scription of technical Objects”. In Shaping Technology / Building Society: Studies in Sociotechnical Change, edited by Wiebe J. Bijker and Trever Pinch.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Machines and devices are obviously composite, heterogeneous, and physically localized. (p. 205)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a set of diverse forces&lt;/li&gt;
+&lt;li&gt;various persons can judge the extent to which&lt;/li&gt;&lt;/ul&gt;</description><link>http://localhost:2368/notes-on-the-de-scription-of-technical-objects/</link><guid isPermaLink="false">79b7a0c0-9b46-4619-928d-09645088f28c</guid><category>ANT</category><category>Network</category><category>STS</category><dc:creator>Debby</dc:creator><pubDate>Mon, 21 Dec 2015 18:06:31 GMT</pubDate><content:encoded>&lt;p&gt;Akrich, Madeleine. 1992. “The De-Scription of technical Objects”. In Shaping Technology / Building Society: Studies in Sociotechnical Change, edited by Wiebe J. Bijker and Trever Pinch.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Machines and devices are obviously composite, heterogeneous, and physically localized. (p. 205)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a set of diverse forces&lt;/li&gt;
+&lt;li&gt;various persons can judge the extent to which it has been used in ways that conform to the norms it represents&lt;/li&gt;
+&lt;li&gt;Technical objects thus simultaneously embody and measure a set of relations between heterogeneous elements.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It would,in other words, look like a set of places where elements of the technical, the social, the economic, and so on were found together, and it would leave observers free to switch between one element or register and another as this suited them. (p. 206)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;building &lt;strong&gt;heterogeneous networks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;the ways in which they build, maintain, and stabilize a structure of links between diverse actants&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;relationships&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;obduracy or plasticity&lt;/li&gt;
+&lt;li&gt;technical objects distribute causes&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Designers thus define actors with specific tastes, competences, motives, aspirations, political prejudices, and the rest, and they assume that morality, technology, science, and economy will evolve in particular ways. A large part of the work of innovators is that of "&lt;em&gt;inscribing&lt;/em&gt;' this vision of (or prediction about) the world in the technical content of the new object. I will call this end product of this work a "script" or a "scenario." (p. 208)&lt;/p&gt;
+  
+  &lt;p&gt;The technical realization of the innovator's beliefs about the relationships between an object and its surrounding actors is thus an attempt to predetermine the settings that users are asked to imagine for a particular piece of technology and the pre-scriptions (notices, contracts, advice, etc.) that accompany it. (p. 208)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id="descriptionintechnologicaltransferreinventingandreshapingtechnicalobjectsinuse"&gt;De-Scription in Technological Transfer: Reinventing and Reshaping Technical Objects in Use&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;negotiations between the innovator and potential users&lt;/li&gt;
+&lt;li&gt;relationships between forms and meanings -&gt; adjustment&lt;/li&gt;
+&lt;li&gt;mediators to create the links between technical content and user
+&lt;ul&gt;&lt;li&gt;study users or disputes&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="prescriptionsasawayofenrollingactorsorhowtomakecitizens"&gt;Prescriptions as a Way of Enrolling Actors: Or How to Make Citizens&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sometimes the designers of technology only have access to certain actors, whom they push into certain roles. (p. 214)&lt;/li&gt;
+&lt;li&gt;Winner (1980): certain technologies are inherently political, or undemocratic, but users have to be persuaded to play the roles assigned for them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="fromcausestoaccusationsandformsofknowledge"&gt;From Causes to Accusations and Forms of Knowledge&lt;/h2&gt;
+
+&lt;h2 id="abobothewarandmarcorynowirewheretechnologymeetsmorality"&gt;Abobo-the-War and Marcory-No-Wire: Where Technology Meets Morality&lt;/h2&gt;
+
+&lt;h2 id="theorderofthingsandhumannaturethestabilizationandnaturalizationofscripts"&gt;"The Order of Things and Human Nature": The Stabilization and Naturalization of Scripts&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;establish systems of causality&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="conclusiontowardtheconstitutionofknowledge"&gt;Conclusion: Toward the Constitution of Knowledge&lt;/h2&gt;</content:encoded></item><item><title>Steps towards Anthropology of Techniques and “Technology”</title><description>&lt;h1 id="stepstowardsanthropologyoftechniquesandtechnology"&gt;Steps towards Anthropology of Techniques and “Technology”&lt;/h1&gt;
+
+&lt;h2 id="outlineofthelectures"&gt;Outline of the lectures&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;“Technology”: Capitalism, Rationality&lt;/li&gt;
+&lt;li&gt;Study of techniques: modes of action&lt;/li&gt;
+&lt;li&gt;Techniques, Mind, and Cognition: Phenomenology&lt;/li&gt;
+&lt;li&gt;Chaine operatoire: graphic device, general model for archaeologists or particular occurrence&lt;/li&gt;
+&lt;li&gt;Determinisms and Causalities: different forms of determinisms: historical, social, biological, etc.&lt;/li&gt;
+&lt;li&gt;Magic, Rituals, and&lt;/li&gt;&lt;/ul&gt;</description><link>http://localhost:2368/steps-towards-anthropology-of-techniques-and-technology/</link><guid isPermaLink="false">b7cc179d-4e93-4392-b93e-1c4c85fab85f</guid><category>ANT</category><category>SSK</category><category>SCOT</category><category>STS</category><category>History of Technology</category><category>Methods</category><category>Ontology</category><category>Network</category><category>Determinism</category><category>Cognition</category><category>Techniques</category><category>Material Culture</category><dc:creator>Debby</dc:creator><pubDate>Wed, 16 Dec 2015 14:39:41 GMT</pubDate><content:encoded>&lt;h1 id="stepstowardsanthropologyoftechniquesandtechnology"&gt;Steps towards Anthropology of Techniques and “Technology”&lt;/h1&gt;
+
+&lt;h2 id="outlineofthelectures"&gt;Outline of the lectures&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;“Technology”: Capitalism, Rationality&lt;/li&gt;
+&lt;li&gt;Study of techniques: modes of action&lt;/li&gt;
+&lt;li&gt;Techniques, Mind, and Cognition: Phenomenology&lt;/li&gt;
+&lt;li&gt;Chaine operatoire: graphic device, general model for archaeologists or particular occurrence&lt;/li&gt;
+&lt;li&gt;Determinisms and Causalities: different forms of determinisms: historical, social, biological, etc.&lt;/li&gt;
+&lt;li&gt;Magic, Rituals, and Techniques: the problem of rationality, indigenous modes of action, descriptive nature (suspending our thoughts of causality)&lt;/li&gt;
+&lt;li&gt;From SSK to SCOTs and STS: big social systems, technical innovation (social determinism to criticize technology’s rationality, neutrality)&lt;/li&gt;
+&lt;li&gt;The Love of “Technology”: Hybrids, Networks, and Other Assemblages: “black box”&lt;/li&gt;
+&lt;li&gt;Conclusion: Transecting Cosmologies&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="techtech"&gt;Tech &amp;amp; Tech&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Techniques:
+&lt;ul&gt;&lt;li&gt;As Embodied Modes of Relations
+&lt;ul&gt;&lt;li&gt;Material Activities&lt;/li&gt;
+&lt;li&gt;Practices&lt;/li&gt;
+&lt;li&gt;Performances&lt;/li&gt;
+&lt;li&gt;Processes
+~ Observing techniques without materials?~&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;“Technology”: (venacular category to the West)
+&lt;ul&gt;&lt;li&gt;“Meta” level: as a political trope&lt;/li&gt;
+&lt;li&gt;Studies, analyses, discourses on “Techniques”&lt;/li&gt;
+&lt;li&gt;Distinctions between emic and etic
+~ Be careful about using "power", "agency," etc. You need to observe the techniques.~&lt;/li&gt;
+&lt;li&gt;Past civilizations don’t have technologies because they don’t seperate technologies from societies (i.e. technological systems)&lt;/li&gt;
+&lt;li&gt;Define what you mean by “technology”&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="asuggestion"&gt;A suggestion&lt;/h2&gt;
+
+&lt;p&gt;&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;                  “Society”
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Techniques ⍆&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;              “Technology”
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id="technology"&gt;“Technology”&lt;/h2&gt;
+
+&lt;h3 id="somepeople"&gt;Some People&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Historians&lt;/li&gt;
+&lt;li&gt;Curators&lt;/li&gt;
+&lt;li&gt;Archaeologists&lt;/li&gt;
+&lt;li&gt;Prehistorians&lt;/li&gt;
+&lt;li&gt;Sociologists&lt;/li&gt;
+&lt;li&gt;Anthropologists&lt;/li&gt;
+&lt;li&gt;Philosophers
+—&lt;/li&gt;
+&lt;li&gt;Scientists&lt;/li&gt;
+&lt;li&gt;Engineers&lt;/li&gt;
+&lt;li&gt;Technicians&lt;/li&gt;
+&lt;li&gt;Economists: Carl Polayni - battle between substanvists and constructivists&lt;/li&gt;
+&lt;li&gt;Civil Society&lt;/li&gt;
+&lt;li&gt;“People”…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="sometools"&gt;Some Tools&lt;/h3&gt;
+
+&lt;h3 id="somethemes"&gt;Some Themes&lt;/h3&gt;
+
+&lt;h2 id="elementsforananthropologyoftechnology"&gt;Elements for an Anthropology of Technology&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Entities:
+&lt;ul&gt;&lt;li&gt;Objects&lt;/li&gt;
+&lt;li&gt;Activities, Processes&lt;/li&gt;
+&lt;li&gt;Knowledge&lt;/li&gt;
+&lt;li&gt;Modes of organization&lt;/li&gt;
+&lt;li&gt;Sociotechnical Systems
+—&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ways of thinking:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Adapt to/Control of&lt;/li&gt;
+&lt;li&gt;Problem solving/creating&lt;/li&gt;
+&lt;li&gt;Extension of capacities (H/NH)&lt;/li&gt;
+&lt;li&gt;Mediation (Physical and cultural worlds)&lt;/li&gt;
+&lt;li&gt;Modes of Being and Knowing&lt;/li&gt;
+&lt;li&gt;Modes of Revealing and Enframing&lt;/li&gt;
+&lt;li&gt;Agent&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Approaches:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Naturalism&lt;/li&gt;
+&lt;li&gt;Humanism: socially constructed&lt;/li&gt;
+&lt;li&gt;Posthumanism: Harraway 
+&lt;ul&gt;&lt;li&gt;We are cyborgs. -&gt; cybernetics: historically located theories (wrongly applied to Paleolithics, etc.)&lt;/li&gt;
+&lt;li&gt;Critique of informatics&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Positions:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Optimism&lt;/li&gt;
+&lt;li&gt;Neutral&lt;/li&gt;
+&lt;li&gt;Pessimism&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="frommatthewman2011"&gt;From Matthewman (2011)&lt;/h3&gt;
+
+&lt;h3 id="somedetermism"&gt;Some Determism&lt;/h3&gt;
+
+&lt;h3 id="techniquesandbodies"&gt;Techniques and Bodies&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sense, Skills, and Subjectifications&lt;/li&gt;
+&lt;li&gt;A methodological starting point&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Material determinists -&gt; Artifacts (instruments) -&gt; Arbitrariness (e.g. airplanes, bicycles); social negotiation comes into play -&gt; interrelationships between H and NH entities -&gt; infrastructures (LC: environmental issues are side effects, unintended consequences?)&lt;/p&gt;
+
+&lt;h2 id="feedbacksystem"&gt;Feed-back System&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A model to think through: Time&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Start -&gt; Technical Process -&gt; Result (temporal) &lt;br&gt;
+&amp;lt;-            Recursivity              &amp;lt;-   &lt;/p&gt;
+
+&lt;h3 id="nonlinearity"&gt;Non-linearity&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sensitivity to initial conditions. (If religion comes at a certain moment, its effect will remain later in the sequence.)&lt;/li&gt;
+&lt;li&gt;Unpredictability of the result&lt;/li&gt;
+&lt;li&gt;Re-interation over time -&gt; unpredictable changes in behavior&lt;/li&gt;
+&lt;li&gt;Irreversibility&lt;/li&gt;
+&lt;li&gt;Chaos, Network, and New Holisms&lt;/li&gt;
+&lt;li&gt;Alternative to Newton’s Mechanistic Universe&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="backtomausssformula"&gt;Back to Mauss’s Formula&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;From the &lt;em&gt;etic&lt;/em&gt; to the &lt;em&gt;emic&lt;/em&gt;
+&lt;ul&gt;&lt;li&gt;Techniques = “Actions &lt;strong&gt;effective&lt;/strong&gt; and &lt;strong&gt;traditional&lt;/strong&gt; for the &lt;strong&gt;actor&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Making the etic emic:
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Make an ethnographic account of determinisms&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;According to the actors&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;The problem is that when it comes to material culture and particularly techniques (“technology”):
+&lt;ul&gt;&lt;li&gt;The Western emphasis on technical developments, innovations, inventions, and machines seem to have confirmed the validity of its own premises. (i.e. Rationality)&lt;/li&gt;
+&lt;li&gt;Machines and “technological devices” are materialized demonstrations of the superiority of Western mechanistic ontological regime over pre-/non-modern (indigenous) ones (i.e. Fundamentalism)&lt;/li&gt;
+&lt;li&gt;This recursive validation could be “colonizing” the project of anthropology itself: when etic explanatory models are so persuasive (i.e. Whitehead: misplaced concreteness)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="latoursmodel"&gt;Latour’s Model&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;techno-politics&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="ingoldsmodel"&gt;Ingold’s model&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;flow of materials&lt;/li&gt;
+&lt;li&gt;What’s missing: not homogeneous&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="ourmethodologicalperspective"&gt;Our Methodological Perspective&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sequences and Rhythms: “Efficacious” &amp;amp; “Traditional” Actions (recorded via chaine operatoire)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="samplingcomplexitytransect"&gt;Sampling Complexity: Transect&lt;/h3&gt;
+
+&lt;p&gt;Tip: Use the vernacular categories of the informant &lt;br&gt;
+Condensation: potentialities of the yam&lt;/p&gt;
+
+&lt;h2 id="concludingremarks"&gt;Concluding Remarks&lt;/h2&gt;
+
+&lt;h3 id="chaineoperatoiresastransects"&gt;Chaine Operatoires as Transects&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Transacts are a ecological techniquue. Ecologists draw lines arbitrarily in the landscape and observe every species encountered.&lt;/li&gt;
+&lt;li&gt;Through vernacular collectives
+&lt;ul&gt;&lt;li&gt;Complex&lt;/li&gt;
+&lt;li&gt;Transient&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Heterogeneous:&lt;/strong&gt; the notion of logic doesn’t always apply. The actor can change regimes. &lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Temporality
+&lt;ul&gt;&lt;li&gt;Sequenciality&lt;/li&gt;
+&lt;li&gt;Velocity: There are moments people don’t work: breaks.&lt;/li&gt;
+&lt;li&gt;Rhythm: Technical activities create space and time, e.g. heart beat, music, symbols.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Each “event” (operation):
+&lt;ul&gt;&lt;li&gt;Particular relation (‘situated’)&lt;/li&gt;
+&lt;li&gt;“Efficacious”
+&lt;ul&gt;&lt;li&gt;Instantiate an “ontological statement” in a non-verbal form (self-evidence)&lt;/li&gt;
+&lt;li&gt;Cosmological dimension (~People have been planting yams for thousands of years~)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;It doesn’t pretend to present a complete ethnography.&lt;/li&gt;
+&lt;li&gt;It shows the merging of different categories.&lt;/li&gt;
+&lt;li&gt;Spatio-temporal&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="networksreliefvelocitytranscience"&gt;Networks: relief, velocity, transcience&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Devices: Fetishism 2.0 (Marx). The network disappeared.
+&lt;ul&gt;&lt;li&gt;Saying that it has agency is enough.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Metanymic association (taking the part as the whole) -&gt; Marxist mode of production&lt;/li&gt;
+&lt;li&gt;“I can’t see networks, politics, kinship… I only see people doing things.”&lt;/li&gt;
+&lt;li&gt;Network is imminent.&lt;/li&gt;
+&lt;li&gt;Structural-functionalism
+&lt;ul&gt;&lt;li&gt;Kinship is not a preexisting entity. It is instantiated, appearing at a certain moment.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;The network has potential, but it is actualized through actions.
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Contingency&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Transect&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="reflexivity"&gt;Reflexivity&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I&lt;/li&gt;
+&lt;li&gt;Indigenous use of categories
+&lt;ul&gt;&lt;li&gt;&lt;em&gt;The Network Inside Out&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;The mundane&lt;/li&gt;
+&lt;li&gt;Material activities&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="analysingtransectsaquestionofscale"&gt;Analysing Transects: A Question of Scale?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Scale of Analysis, Scale of Phenomenon (~zooming in, zooming out~)&lt;/li&gt;
+&lt;li&gt;Micro-scale (“Event”?)
+&lt;ul&gt;&lt;li&gt;Cognition (~Flow: Ingold; phenomenology, affect~)&lt;/li&gt;
+&lt;li&gt;Flux (~If the flux is broken, the actor reflects upon the flow.~)&lt;/li&gt;
+&lt;li&gt;Ontologies (?)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Medium-scale (“Operation”?)
+&lt;ul&gt;&lt;li&gt;Logic, project, designers, desire (~System of relations~, topology of what an artifact is)&lt;/li&gt;
+&lt;li&gt;Only visible through its instantiation, various manifestation&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Macro-scale (“System”?)
+&lt;ul&gt;&lt;li&gt;Socio-Technical&lt;/li&gt;
+&lt;li&gt;Politics&lt;/li&gt;
+&lt;li&gt;Thickness&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Other chaine-operatoires?&lt;/li&gt;
+&lt;li&gt;Concepts (Adam Drazin)&lt;/li&gt;
+&lt;li&gt;Nonsense of Immateriality (There is material dimension of almost everything.)&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title>Notes on the the Activist, the Academic, and Digital Media</title><description>&lt;h1 id="darksideanthropologytheartoffinancialculturehacking"&gt;Dark Side Anthropology: The art of financial culture hacking&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;@suitpossum - Brett Scott&lt;/li&gt;
+&lt;li&gt;Social science of finance
+&lt;ul&gt;&lt;li&gt;‘Objective’ social science, leaving political affiliations aside&lt;/li&gt;
+&lt;li&gt;Implicitly endorses finances&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Activists launch campaigns, but they don’t know the financial system
+&lt;ul&gt;&lt;li&gt;Misleading ideas that actually help the financial system&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Got a job in&lt;/li&gt;&lt;/ul&gt;</description><link>http://localhost:2368/notes-on-the-the-activist-the-academic-and-digital-media/</link><guid isPermaLink="false">1aa03c6c-b9a2-42a8-9784-d756057119c5</guid><category>Digital Media</category><category>Activism</category><category>Academia</category><dc:creator>Debby</dc:creator><pubDate>Wed, 16 Dec 2015 14:29:33 GMT</pubDate><content:encoded>&lt;h1 id="darksideanthropologytheartoffinancialculturehacking"&gt;Dark Side Anthropology: The art of financial culture hacking&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;@suitpossum - Brett Scott&lt;/li&gt;
+&lt;li&gt;Social science of finance
+&lt;ul&gt;&lt;li&gt;‘Objective’ social science, leaving political affiliations aside&lt;/li&gt;
+&lt;li&gt;Implicitly endorses finances&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Activists launch campaigns, but they don’t know the financial system
+&lt;ul&gt;&lt;li&gt;Misleading ideas that actually help the financial system&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Got a job in brokerage&lt;/li&gt;
+&lt;li&gt;Breaking the boundaries between:
+&lt;ul&gt;&lt;li&gt;Undercover&lt;/li&gt;
+&lt;li&gt;Mainstream person&lt;/li&gt;
+&lt;li&gt;Reformed person&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Activists vs. financial professionals&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="subdisciplinesandconstraints"&gt;Subdisciplines and Constraints&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Immersive Anthropology
+&lt;ul&gt;&lt;li&gt;Controversial: pushing to the pure participation side&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Activist Anthropology
+&lt;ul&gt;&lt;li&gt;Leading Leftist, e.g. David Graeber&lt;/li&gt;
+&lt;li&gt;Anarchist strand&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Upward Anthropology&lt;/li&gt;
+&lt;li&gt;The problem is that it’s still anthropology
+&lt;ul&gt;&lt;li&gt;Ethical criteria&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="ambiguity"&gt;Ambiguity&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Investgonzo journalism&lt;/li&gt;
+&lt;li&gt;Nellie Bly&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="beingwithactivistgroups"&gt;Being with Activist Groups&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Knowledge&lt;/li&gt;
+&lt;li&gt;Human dynamics &amp;amp; empathy&lt;/li&gt;
+&lt;li&gt;Embracing uncertainty: the systems don’t have strict ways of working&lt;/li&gt;
+&lt;li&gt;Dark side hybridization: spontaneous abhorrence -&gt; should be overcome, being in and out of these systems out of moral horror (e.g. Blade)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id="anarchyintheacademy"&gt;Anarchy in the Academy&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sandra Jeppesen&lt;/li&gt;
+&lt;li&gt;The Presumed Gap
+&lt;ul&gt;&lt;li&gt;activist non-researchers or non-activist researchers&lt;/li&gt;
+&lt;li&gt;activists: practices&lt;/li&gt;
+&lt;li&gt;academia: theories&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Assumptions and Transgressions
+&lt;ul&gt;&lt;li&gt;All research is subjective and ideological&lt;/li&gt;
+&lt;li&gt;University hierarchy can &lt;em&gt;invisibly&lt;/em&gt; marginalize anarchist researchers&lt;/li&gt;
+&lt;li&gt;Embodied experience of researcher-activist (of oppression, of activism) produces legitimate expertise as knowledge&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="howdowegeneratemoreanarchyintheacademia"&gt;How do we generate (more) anarchy in the academia?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Media Action Research Group (MARG) Methodology&lt;/li&gt;
+&lt;li&gt;PPFPAR
+&lt;ul&gt;&lt;li&gt;Prefigurative Antiauthoritarian Feminist Participatory Action Research&lt;/li&gt;
+&lt;li&gt;Radical media mixer with 90 participants&lt;/li&gt;
+&lt;li&gt;Co-research projects with media activist partners
+&lt;ul&gt;&lt;li&gt;The Media Co-op&lt;/li&gt;
+&lt;li&gt;Mi’kmaq podcast&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="methodology"&gt;Methodology&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;anachy | prefiguration &lt;br&gt;
+&lt;ul&gt;&lt;li&gt;Portwood-Stacer
+&lt;ul&gt;&lt;li&gt;antiauthoritarian practices countering structures and institutions of domination&lt;/li&gt;
+&lt;li&gt;communicative logic of prefigurative politics in everyday life&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;anachy | power-sharing &lt;br&gt;
+&lt;ul&gt;&lt;li&gt;Ferrell
+&lt;ul&gt;&lt;li&gt;freeing research from the suffocating authority of dominant method&lt;/li&gt;
+&lt;li&gt;horizontal leadership&lt;/li&gt;
+&lt;li&gt;transgressive methods&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Juris
+&lt;ul&gt;&lt;li&gt;embodied experience&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;anachy | mutual-aid &lt;br&gt;
+&lt;ul&gt;&lt;li&gt;Gordon&lt;/li&gt;
+&lt;li&gt;Kruzynski&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;anachy | intersectionality &lt;br&gt;
+&lt;ul&gt;&lt;li&gt;Volcano &amp;amp; Rogue&lt;/li&gt;
+-&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id="challengescontraditions"&gt;Challenges &amp;amp; Contraditions&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;RA&lt;/li&gt;
+&lt;li&gt;Conferences
+&lt;ul&gt;&lt;li&gt;Who&lt;/li&gt;
+&lt;li&gt;What&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Decision-making power&lt;/li&gt;
+&lt;li&gt;Management&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="characteristicsofdirectresearch3publicspheres"&gt;Characteristics of Direct Research | 3 Public Spheres&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Research engage in &lt;strong&gt;direct&lt;/strong&gt; action &lt;em&gt;social movements&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Radical media mixers generate &lt;strong&gt;direct&lt;/strong&gt; impact for/with &lt;em&gt;media activists&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;PAFFAR &lt;strong&gt;direct&lt;/strong&gt; creation of horizontal research structures in &lt;em&gt;university&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id="criticalreflectionsondoingmilitantresearchwithoccupylondon"&gt;Critical Reflections on doing Militant Research with Occupy London&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sam Halvorsen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="militantresearch"&gt;Militant Research&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;No inevitable disconnect between theory and practice&lt;/li&gt;
+&lt;li&gt;All political struggle necessarily involves theory&lt;/li&gt;
+&lt;li&gt;Dilemmas over researcher and activist ‘hats’ may be overblown&lt;/li&gt;
+&lt;li&gt;More helpful to explore the ways in which militant research is incorporated
+
+
+&lt;blockquote&gt;
+  intensification and deepening of the political (Shukaitis and Graeber, 2007, p. 9)&lt;/blockquote&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;h3 id="history"&gt;History&lt;/h3&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;History of “workers inquiry” — Marx 1880 (&lt;em&gt;La Revue Socialiste&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Co-research: 1960s Autonomistas, Situationists&lt;/li&gt;
+&lt;li&gt;Post 1970s: Class composition, Precarity&lt;/li&gt;
+&lt;li&gt;Recently: Militant ethnographies; Argentina, Spain&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="militantresearchandtheuniversity"&gt;Militant Research and the University&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Neoliberalism&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="withintheuniversity"&gt;Within the University&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ESRC Funding&lt;/li&gt;
+&lt;li&gt;Resources&lt;/li&gt;
+&lt;li&gt;Space&lt;/li&gt;
+&lt;li&gt;Problem with the Ethics Committee at UCL&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="beyondtheuniversity"&gt;Beyond the University&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Occupy Research Collective (ORC)
+&lt;ul&gt;&lt;li&gt;Jargon free reflections&lt;/li&gt;
+&lt;li&gt;Resources: familiar story of burn-out&lt;/li&gt;
+&lt;li&gt;Increase administrative tasks to maintain the institutional form&lt;/li&gt;
+&lt;li&gt;Increasing specialization and lack of participation from wider movement&lt;/li&gt;
+&lt;li&gt;Fear of providing critique to Occupy, but most important the narrow vision taken by militant researchers: not only failure to think beyond Occupy but to think beyond particular repertoires of Activism&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="militantresearchagainstandbeyonditself"&gt;Militant Research against-and-beyond itself&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;No pure or autonomous sites for doing militant research&lt;/li&gt;
+&lt;li&gt;University remains a main site, but it’s important to keep working as collectives&lt;/li&gt;
+&lt;li&gt;The limits to militancy &lt;br&gt;
+&lt;ul&gt;&lt;li&gt;short-sightedness? Who is to say how the world should be changed?&lt;/li&gt;
+&lt;li&gt;Does the university, then, provide a useful ‘thirdspace’ (Routledge, 1996) from which to have one step in one step own militant situations? Or is it too constrained?&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;The need for theory &lt;br&gt;
+&lt;ul&gt;&lt;li&gt;e.g. precarious workers, immaterial labor&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id="capitalismtechnologyandcontemporarysocialmovementsamethodologyofresearchandchange"&gt;Capitalism, Technology, and Contemporary Social Movements: A Methodology of Research and Change&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Todd Wolfson&lt;/li&gt;
+&lt;li&gt;Urban ethnography
+&lt;ul&gt;&lt;li&gt;a independent media in Philadelphia&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Enamored with the strategies
+&lt;ul&gt;&lt;li&gt;Use of media to bind sites&lt;/li&gt;
+&lt;li&gt;Decentralized structure&lt;/li&gt;
+&lt;li&gt;Deeply embedded in social movements&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Weaknesses&lt;/li&gt;
+&lt;li&gt;New Project: in the spirit of Poor People’s Organizing: Groundwork
+&lt;ul&gt;&lt;li&gt;Started from Martin Luther King&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Research became the function of the movements&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Digital Rebellion&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;radical politics&lt;/li&gt;
+&lt;li&gt;rise of communication technology&lt;/li&gt;
+&lt;li&gt;history of the left movement&lt;/li&gt;
+&lt;li&gt;epoch
+&lt;ul&gt;&lt;li&gt;“cyber left”&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Link of the Global Justice Movement with contemporary movements
+&lt;ul&gt;&lt;li&gt;fight hierarchy, non-centralized&lt;/li&gt;
+&lt;li&gt;how to change the world without taking power&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Why Indie Media Died&lt;/li&gt;
+&lt;li&gt;Lack of full analysis of Capitalism, Patriarchy, Class. Power goes to people with the most culture capital.  &lt;/li&gt;
+&lt;li&gt;Techno-utopian  &lt;/li&gt;
+&lt;li&gt;Suspicion of organization building (lack of long-term plans).  &lt;/li&gt;
+&lt;li&gt;Build readership outside of the class.  &lt;/li&gt;
+&lt;li&gt;Use media to build across communities&lt;/li&gt;
+&lt;li&gt;Build an organization (dialectic)&lt;/li&gt;
+&lt;li&gt;Ground the movement locally
+&lt;ul&gt;&lt;li&gt;problem: parochial&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Leadership development&lt;/li&gt;
+&lt;li&gt;Use technology appropriately
+&lt;ul&gt;&lt;li&gt;e.g. cab drivers&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="conclusion"&gt;Conclusion&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Push back the norms of academy&lt;/li&gt;
+&lt;li&gt;Push back the proprietary nature of knowledge&lt;/li&gt;
+&lt;li&gt;You have to be in the community
+&lt;ul&gt;&lt;li&gt;ethnography, embodiment&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Ethnography is a good tool because it forces you to build relationships&lt;/li&gt;
+&lt;li&gt;The common academic position is to be objective, but you do better research with deep involvement &lt;/li&gt;
+&lt;li&gt;As faculty, build processes to push a better way forward&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id="discussions"&gt;Discussions&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Binaries?
+&lt;ul&gt;&lt;li&gt;Virtualism?&lt;/li&gt;
+&lt;li&gt;Hacker culture
+&lt;ul&gt;&lt;li&gt;exploration and messing with systems&lt;/li&gt;
+&lt;li&gt;deconstructing stuff&lt;/li&gt;
+&lt;li&gt;blends together rebellion and creativity&lt;/li&gt;
+&lt;li&gt;queer theory, decentralizing things&lt;/li&gt;
+&lt;li&gt;individualistic -&gt; traditional social movements&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Public Intellectuals
+&lt;ul&gt;&lt;li&gt;How can we build ourselves as intellectuals? Not focusing on people with the most culture capital&lt;/li&gt;
+&lt;li&gt;How we can all level up to build projects for the betterment of the humanity&lt;/li&gt;
+&lt;li&gt;Recognize how hierarchies are constructed&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Ethics
+&lt;ul&gt;&lt;li&gt;Feminists: ethics protocol&lt;/li&gt;
+&lt;li&gt;Challenge from Big Data&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Research Grants
+&lt;ul&gt;&lt;li&gt;Within the institutions, there are allies&lt;/li&gt;
+&lt;li&gt;Relect on the changes of the political economy&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Theory &amp;amp; Practice
+&lt;ul&gt;&lt;li&gt;Theory comes from the language activists use - ontology?&lt;/li&gt;
+&lt;li&gt;Discourse disseminated in the activist groups&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Power&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title>Notes on the 12/8 Lecture</title><description>&lt;h2 id="fromsociologyofsciencetosymmetricanthropology"&gt;From Sociology of Science to Symmetric Anthropology&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Critique of Shapin &amp;amp; Schaffer &lt;em&gt;Leviathan and the Air-Pump&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Hobbes (science should replace nature, external laws, rationality, society is transcendental) vs. Boyle (experiment can happen outside of society, configuration)&lt;/li&gt;
+&lt;li&gt;Constructivism/Empiricism State&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="firstdualismthegreatdivide"&gt;First Dualism: The “Great Divide”&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bruno Latour (1993) &lt;em&gt;We have never&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;</description><link>http://localhost:2368/notes-on-the-12-8-lecture/</link><guid isPermaLink="false">1a2434de-c3bc-416f-a7dc-ef0afada6ab6</guid><category>ANT</category><category>Network</category><category>STS</category><dc:creator>Debby</dc:creator><pubDate>Thu, 10 Dec 2015 18:20:47 GMT</pubDate><content:encoded>&lt;h2 id="fromsociologyofsciencetosymmetricanthropology"&gt;From Sociology of Science to Symmetric Anthropology&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Critique of Shapin &amp;amp; Schaffer &lt;em&gt;Leviathan and the Air-Pump&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Hobbes (science should replace nature, external laws, rationality, society is transcendental) vs. Boyle (experiment can happen outside of society, configuration)&lt;/li&gt;
+&lt;li&gt;Constructivism/Empiricism State&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="firstdualismthegreatdivide"&gt;First Dualism: The “Great Divide”&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bruno Latour (1993) &lt;em&gt;We have never been modern&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Suggestion of a model:
+&lt;ul&gt;&lt;li&gt;Society (political discourse)&lt;/li&gt;
+&lt;li&gt;Nature &lt;/li&gt;
+&lt;li&gt;This division creates &lt;strong&gt;“Quasi-Objects”&lt;/strong&gt;
+&lt;ul&gt;&lt;li&gt;E.g. Polution clouds, Dolly (artifact or living being?, science is outside of nature, robotics, cells, rugby ball -&gt; social relations)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Political constitution
+&lt;ul&gt;&lt;li&gt;Descola: division between nature and society&lt;/li&gt;
+&lt;li&gt;18th century rationality&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="latoursquasiobjectsfrommichelserres"&gt;Latour’s Quasi-Objects from Michel Serres&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Serres: &lt;em&gt;The Parasite&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Quasi object:
+
+
+&lt;blockquote&gt;
+  &lt;p&gt;This quasi-object is not an object, but it is one nevertheless, since it is not a subject, since it is in the world; it is also a quasi-subject, since it marks or designates a subject who, without it, would not be a subject. (1982a: 225)&lt;/p&gt;
+  
+  &lt;ul&gt;&lt;li&gt;Marker of the subject&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;&lt;/li&gt;
+  &lt;li&gt;1986 Rome, The Book of Foundations&lt;/li&gt;
+  &lt;li&gt;Serres, M. (with Bruno Latour) (1995)
+  &lt;em&gt;Conversations on Science, Culture, and Time&lt;/em&gt; Ann Arbor: University of Michigan Press&lt;/li&gt;
+  &lt;li&gt;Latour’s cartoon: Both Hobbes and Boyle are wrong
+  &lt;ul&gt;&lt;li&gt;Two types of nature and Society (hard/soft)&lt;/li&gt;
+  &lt;li&gt;Dialectics (Miller): Reproduces the division&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  
+  &lt;h4 id="latoursmodelofanthropology"&gt;Latour’s Model of Anthropology&lt;/h4&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;His fieldwork is mostly in contemporary settings.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="latoursprincipleofsymmetry"&gt;Latour’s Principle of Symmetry&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;We don’t start from presupposed models; we look at artifacts. We can see how nature, hard and soft, and society, hard and soft, come into play.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="seconddualismtechniquesandsociety"&gt;Second Dualism: Techniques and Society&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Society&lt;/li&gt;
+&lt;li&gt;Techniques&lt;/li&gt;
+&lt;li&gt;“Quasi-object”: hybrids&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="fromsymmetricanthropologytoant"&gt;From Symmetric Anthropology to ANT&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Michel Callon (Fr) + John Law (UK)&lt;/li&gt;
+&lt;li&gt;End of 1990s
+&lt;ul&gt;&lt;li&gt;Actor-Network Theory&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Tracing associations in Networks mixing actors&lt;/li&gt;
+&lt;li&gt;The “invention” of the Kodak Camera (1850-1899): controversy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="somekeyconceptsofant"&gt;Some Key Concepts of ANT&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Humans (H) and Non-Humans (NH)
+&lt;ul&gt;&lt;li&gt;Existants in Descola 2005 (e.g. stem cells, embryos)&lt;/li&gt;
+&lt;li&gt;Jagwars (Amazonian ontology)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Actors/“Actants” - subject of a predicate
+&lt;ul&gt;&lt;li&gt;agency&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Networks - a chain of associations between H and NH
+&lt;ul&gt;&lt;li&gt;the question of the scale&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Programme of action/Antiprogramme
+&lt;ul&gt;&lt;li&gt;the key&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Association &amp;amp; Substitution&lt;/li&gt;
+&lt;li&gt;Translation
+&lt;ul&gt;&lt;li&gt;to deal with resistance&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Punctualization&lt;/li&gt;
+&lt;li&gt;Delegation&lt;/li&gt;
+&lt;li&gt;Network is established out of processes; it’s not preestablished
+&lt;ul&gt;&lt;li&gt;collectives, e.g. kinship
+&lt;ul&gt;&lt;li&gt;rituals for loose networks to happen, e.g. weddings, funerals&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="stablizationsornot"&gt;Stablizations (or not)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;VAL vs. “Aramis”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="delegations"&gt;Delegations&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;roundabout&lt;/li&gt;
+&lt;li&gt;oyster card system&lt;/li&gt;
+&lt;li&gt;speed bumps&lt;/li&gt;
+&lt;li&gt;moral statement/apparatus&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="anewprojectaimeaninquiryintomodesofexistence"&gt;A New Project: AIME (An Inquiry into Modes of Existence)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Aims:
+&lt;ul&gt;&lt;li&gt;Not only to define “associations” and to follow networks in order to redefine the notion of “society” and “social”&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;The concept of Gaia (ultimate mixture of things)&lt;/li&gt;
+&lt;li&gt;Catholic: a movement against the Enlightenment&lt;/li&gt;
+&lt;li&gt;Latour’s Spirituality&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="critique"&gt;Critique&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Flattens politics/suspension of politics&lt;/li&gt;
+&lt;li&gt;Proposes the methodological suppositions of categories&lt;/li&gt;
+&lt;li&gt;Lacks a secular positions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id="seminar"&gt;Seminar&lt;/h1&gt;
+
+&lt;h2 id="akrich"&gt;Akrich&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;agency is &lt;strong&gt;relational&lt;/strong&gt; (the arrangement of H and NH)&lt;/li&gt;
+&lt;li&gt;mixing of H and NH&lt;/li&gt;
+&lt;li&gt;Users can change any stage of the design&lt;/li&gt;
+&lt;li&gt;NH: they are not instruments; they form social relations -&gt; agency
+&lt;ul&gt;&lt;li&gt;designers put scripts in devices 
+&lt;ul&gt;&lt;li&gt;the driver is both autonomous and dependent&lt;/li&gt;
+&lt;li&gt;self-driving car: H’s agency is different&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;agency (a H’s capacity for action can be changed)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;program vs. anti-program (not following the designed usage)&lt;/li&gt;
+&lt;li&gt;design determines what can be delegated to users and machines&lt;/li&gt;
+&lt;li&gt;Design is a never-ending process.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="law"&gt;Law&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;humans and objects&lt;/li&gt;
+&lt;li&gt;society as a network of heterogeneous materials, not necessarily social
+&lt;ul&gt;&lt;li&gt;knowledge: product or effect of a network of heterogeneous materials (agents, social institutions, machines, organizations…)&lt;/li&gt;
+&lt;li&gt;social: patterned network of heterogeneous materials&lt;/li&gt;
+&lt;li&gt;social order&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Society and organization would not exist if they were simply social&lt;/li&gt;
+&lt;li&gt;Network is a verb&lt;/li&gt;
+&lt;li&gt;Question about social: &lt;strong&gt;HOW&lt;/strong&gt; (not why)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="agencyasnetwork"&gt;Agency as Network&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Radical analysis: not celebrating the idea of humans on one side and objects on the other side&lt;/li&gt;
+&lt;li&gt;Punctualization: … as a whole shape
+&lt;ul&gt;&lt;li&gt;precarious simplicatory of a complex network (e.g. a TV, a person)&lt;/li&gt;
+&lt;li&gt;most of the time we are not even in a position to detect network complexities&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Translation: transformation and the possibility of one thing may mean another
+&lt;ul&gt;&lt;li&gt;Durability&lt;/li&gt;
+&lt;li&gt;Spatial mobility&lt;/li&gt;
+&lt;li&gt;Calculability&lt;/li&gt;
+&lt;li&gt;Representation&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;“Society” recursively reproduces itself. It does so because it is materially heterogeneous
+&lt;ul&gt;&lt;li&gt;power&lt;/li&gt;
+&lt;li&gt;organizations&lt;/li&gt;
+&lt;li&gt;hierarchies&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="latourwehaveneverbeenmodern1991"&gt;Latour &lt;em&gt;We Have Never Been Modern&lt;/em&gt; (1991)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1989: Bicentenary and fall of the Berlin Wall. Reflection about the future. &lt;em&gt;What did we do wrong?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Modernity: fallacy. Understanding a separation between society and nature.&lt;/li&gt;
+&lt;li&gt;Background: Neoliberalism vs. Postmodernism, Relativism
+&lt;ul&gt;&lt;li&gt;Kristeva&lt;/li&gt;
+&lt;li&gt;Foucault&lt;/li&gt;
+&lt;li&gt;Alternative to Marxist determinism&lt;/li&gt;
+&lt;li&gt;Latour: proposes a different frame - questioning modernity (separation between nature and science)
+&lt;ul&gt;&lt;li&gt;not the same as Levi-Strauss -&gt; categories&lt;/li&gt;
+&lt;li&gt;Latour: political relations vis-à-vis science&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Hobbes vs. Boyle&lt;/li&gt;
+&lt;li&gt;Superior, Dominant vs. Inferior, Dominated&lt;/li&gt;
+&lt;li&gt;Quasi-objects, Hybrids&lt;/li&gt;
+&lt;li&gt;Social Act: Network composed by H and NH, Program/Antiprogram&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Actor&lt;/strong&gt; could be H or NH&lt;/li&gt;
+&lt;li&gt;Innovation process: Network H (experts + non-experts) + NH&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="hybridity"&gt;Hybridity&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Danger (Nature/External)&lt;/li&gt;
+&lt;li&gt;Risk (Rational, Control)&lt;/li&gt;
+&lt;li&gt;Overflows (Uncertainty), Socio-technical controversies
+&lt;ul&gt;&lt;li&gt;Earthquake + Tsunami + Nuclear Plant = Out of Control&lt;/li&gt;
+&lt;li&gt;Homosexuality: originally a mental disease -&gt; cultural revolution -&gt; WHO stopped regarding it as a disease&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id="discussions"&gt;Discussions&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src="http://i17.photobucket.com/albums/b65/affleckfan/Concept_zpso6phzewq.png" alt=""&gt;&lt;/p&gt;
+
+&lt;h2 id="nonlinearsystem"&gt;Non-linear System&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sensitivity to &lt;strong&gt;Initial Conditions&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Irreversibility of Time&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unpredictability&lt;/strong&gt; (relation to Leroi-Gourhan)
+&lt;ul&gt;&lt;li&gt;Density&lt;/li&gt;
+&lt;li&gt;Specificity&lt;/li&gt;
+&lt;li&gt;Intensity
+-&gt; Sociotechnical system
+-&gt; H-NH -&gt;
+“Society”&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(appearance of a linear system)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Latour hates dialectics&lt;/li&gt;
+&lt;li&gt;A network is imminent.&lt;/li&gt;
+&lt;li&gt;Innovation mobilizes social groups.&lt;/li&gt;
+&lt;li&gt;Whatever we have today is &lt;strong&gt;arbitrary&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Sociotechnical configurations are materialized through material culture. They conceal the networks they emerge, the arbitrariness.&lt;/li&gt;
+&lt;li&gt;The more complex sociotechnical systems become, the more unpredictable technology becomes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="punctualization"&gt;Punctualization&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Liability, ownership&lt;/li&gt;
+&lt;li&gt;As soon as the network is not smooth, it may be reformed.&lt;/li&gt;
+&lt;li&gt;The network is imminent.&lt;/li&gt;
+&lt;li&gt;When the technology is either stablized or obsolete, the social groups disappear.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Empirical&lt;/strong&gt; approach
+&lt;ul&gt;&lt;li&gt;not dealing with abstract ideas&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;The group of experts wonder why something didn’t work -&gt; categories appear&lt;/li&gt;
+&lt;li&gt;In order to identify a problem, we need to punctualize.
+&lt;ul&gt;&lt;li&gt;e.g. Arctic melting&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="critique"&gt;Critique&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Not specifying the types of agency&lt;/li&gt;
+&lt;li&gt;NH agency is not clear
+&lt;ul&gt;&lt;li&gt;things can’t be given the same weight&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Neutrality vis-à-vis the Network -&gt; Flat&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;No social structures&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Human factors&lt;/li&gt;
+&lt;li&gt;Rationalized (no emotional elements)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;All these can be solved by being &lt;strong&gt;empirical&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;Methodological&lt;/li&gt;
+&lt;li&gt;Suspension of presupposed categories
+&lt;ul&gt;&lt;li&gt;Humans have the reflexive ability to think of themselves as humans (on the conditions of humanity -&gt; a configuration that changes)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="hsandnhs"&gt;Hs and NHs&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Every society has a concept of humanity.&lt;/li&gt;
+&lt;li&gt;Perspectivism
+&lt;ul&gt;&lt;li&gt;Jaguwar
+&lt;ul&gt;&lt;li&gt;process of equivalence&lt;/li&gt;
+&lt;li&gt;particularities of the human body (configurations)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title>Notes on the 11/25 Lecture - Fieldnotes</title><description>&lt;p&gt;Methods can’t be separated from theories.&lt;/p&gt;
+
+&lt;h1 id="fieldnotes"&gt;Fieldnotes&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Methodological and Theoretical&lt;/li&gt;
+&lt;li&gt;The “raw material” of the research&lt;/li&gt;
+&lt;li&gt;Where description happens&lt;/li&gt;
+&lt;li&gt;Aide-memoire&lt;/li&gt;
+&lt;li&gt;Archives&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;In the field&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Disruptive&lt;/li&gt;
+&lt;li&gt;Conspicuous&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Materiality, it has agency&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="typesofdata"&gt;Types of Data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Texts&lt;/li&gt;
+&lt;li&gt;Sounds: songs, music, interviews, ideas, thoughts&lt;/li&gt;
+&lt;li&gt;Images&lt;/li&gt;
+&lt;li&gt;Web… ?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="fieldnotesanorganization"&gt;Fieldnotes: an organization&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Notebooks
+&lt;ul&gt;&lt;li&gt;for interviews and&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;</description><link>http://localhost:2368/notes-on-the-11-25-lecture-fieldnotes/</link><guid isPermaLink="false">23de3c7b-af8a-463e-a186-f1229e5498cc</guid><category>Methods</category><dc:creator>Debby</dc:creator><pubDate>Fri, 04 Dec 2015 19:41:25 GMT</pubDate><content:encoded>&lt;p&gt;Methods can’t be separated from theories.&lt;/p&gt;
+
+&lt;h1 id="fieldnotes"&gt;Fieldnotes&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Methodological and Theoretical&lt;/li&gt;
+&lt;li&gt;The “raw material” of the research&lt;/li&gt;
+&lt;li&gt;Where description happens&lt;/li&gt;
+&lt;li&gt;Aide-memoire&lt;/li&gt;
+&lt;li&gt;Archives&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;In the field&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Disruptive&lt;/li&gt;
+&lt;li&gt;Conspicuous&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Materiality, it has agency&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="typesofdata"&gt;Types of Data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Texts&lt;/li&gt;
+&lt;li&gt;Sounds: songs, music, interviews, ideas, thoughts&lt;/li&gt;
+&lt;li&gt;Images&lt;/li&gt;
+&lt;li&gt;Web… ?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="fieldnotesanorganization"&gt;Fieldnotes: an organization&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Notebooks
+&lt;ul&gt;&lt;li&gt;for interviews and description&lt;/li&gt;
+&lt;li&gt;For technical activities&lt;/li&gt;
+&lt;li&gt;For drawings&lt;/li&gt;
+&lt;li&gt;For genealogies&lt;/li&gt;
+&lt;li&gt;For ideas&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Those you carry around, those you don’t…&lt;/li&gt;
+&lt;li&gt;Leaflets
+&lt;ul&gt;&lt;li&gt;Proliferate&lt;/li&gt;
+&lt;li&gt;System of “cards” (A5)&lt;/li&gt;
+&lt;li&gt;Maps&lt;/li&gt;
+&lt;li&gt;Local documents&lt;/li&gt;
+&lt;li&gt;“Address book” for index and vocabulary&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="fieldnotesandtheirmateriality"&gt;Fieldnotes and their materiality&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Paper or Digital?
+&lt;ul&gt;&lt;li&gt;Different types of fragility&lt;/li&gt;
+&lt;li&gt;Different quality of notes&lt;/li&gt;
+&lt;li&gt;Different relations with people&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Pen? Ink? Others?&lt;/li&gt;
+&lt;li&gt;Instruments: compass, GPS, etc.&lt;/li&gt;
+&lt;li&gt;Transport&lt;/li&gt;
+&lt;li&gt;Supplies (battery?)&lt;/li&gt;
+&lt;li&gt;Back-up&lt;/li&gt;
+&lt;li&gt;Organize for analysis&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title>Notes from the conference Area Studies in the 21st Century @ UCL SSEES</title><description>&lt;h1 id="jankubikuclssees"&gt;Jan Kubik, UCL SSEES&lt;/h1&gt;
+
+&lt;p&gt;What to do with area studies and cross- (multi) disciplinarity in the 21st century?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Why area? Why not country or locality?&lt;/li&gt;
+&lt;li&gt;Area studies&lt;/li&gt;
+&lt;li&gt;Ontological placement: Locality &amp;lt;—&gt; Region &amp;lt;-&gt; Nation/State &amp;lt;-&gt; &lt;strong&gt;Area&lt;/strong&gt; &amp;lt;-&gt; globe&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="troubleinthewest"&gt;Trouble in the West&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;relic of the Cold&lt;/li&gt;&lt;/ul&gt;</description><link>http://localhost:2368/notes-from-the-conference-area-studies-in-the-21st-century-ucl-ssees/</link><guid isPermaLink="false">f858a3ae-d88e-44ed-8808-29466762b0b5</guid><category>History</category><category>Eastern Europe</category><dc:creator>Debby</dc:creator><pubDate>Fri, 04 Dec 2015 17:43:05 GMT</pubDate><media:content url="http://localhost:2368/content/images/2015/12/DSC_0006.JPG" medium="image"/><content:encoded>&lt;h1 id="jankubikuclssees"&gt;Jan Kubik, UCL SSEES&lt;/h1&gt;
+
+&lt;img src="http://localhost:2368/content/images/2015/12/DSC_0006.JPG" alt="Notes from the conference Area Studies in the 21st Century @ UCL SSEES"&gt;&lt;p&gt;What to do with area studies and cross- (multi) disciplinarity in the 21st century?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Why area? Why not country or locality?&lt;/li&gt;
+&lt;li&gt;Area studies&lt;/li&gt;
+&lt;li&gt;Ontological placement: Locality &amp;lt;—&gt; Region &amp;lt;-&gt; Nation/State &amp;lt;-&gt; &lt;strong&gt;Area&lt;/strong&gt; &amp;lt;-&gt; globe&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="troubleinthewest"&gt;Trouble in the West&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;relic of the Cold War&lt;/li&gt;
+&lt;li&gt;Obsolete approach based on arbitrary taxonomies&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="inspirations"&gt;Inspirations&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Mieczyslaw Porebski&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Polishness is a situation.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Bronislaw Malinowski&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;Florian Znaniecki&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="holisticapproaches"&gt;Holistic approaches&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Relationism
+&lt;ul&gt;&lt;li&gt;internal networks that create and maintain area situations&lt;/li&gt;
+&lt;li&gt;external networks (in-betweenness)
+&lt;ul&gt;&lt;li&gt;in the case of democratization, Russia is a “black knight”&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Historicism
+&lt;ul&gt;&lt;li&gt;&lt;em&gt;objective&lt;/em&gt; - legacies that define and legitimize area situations&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Contructivism
+&lt;ul&gt;&lt;li&gt;Common interpretation(s) of the area studies&lt;/li&gt;
+&lt;li&gt;critical junctures (conflict of interpretations), e.g. the “in-betweenness” of “Central Europe” and South Korea&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Formal/informal hybrids
+&lt;ul&gt;&lt;li&gt;Hybridity typical for the area situations
+&lt;ul&gt;&lt;li&gt;Distribution of resources to certain classes: “Nomenklatura capitalism” - corruption/informality&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Attention to scale &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src="http://i17.photobucket.com/albums/b65/affleckfan/Photo%20on%2012-4-15%20at%207.44%20PM_zpsoxs9pnuk.jpg" alt="Notes from the conference Area Studies in the 21st Century @ UCL SSEES"&gt;&lt;/p&gt;
+
+&lt;h1 id="markbeissingerthesocialsciencesandthepluralityofareastudies"&gt;Mark Beissinger: &lt;em&gt;The Social Sciences and the Plurality of Area Studies&lt;/em&gt;&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Why Eastern Europe?
+&lt;ul&gt;&lt;li&gt;internal “others”&lt;/li&gt;
+&lt;li&gt;“Century Europe” - kidnapped West (Kundera)&lt;/li&gt;
+&lt;li&gt;Westocentricm&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="rethinkingmapping"&gt;Rethinking/Mapping?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Problem first, not ‘area’&lt;/li&gt;
+&lt;li&gt;Comparisons and connections&lt;/li&gt;
+&lt;li&gt;Area/discipline?
+&lt;ul&gt;&lt;li&gt;Disciplines started to evolve in the 19th century - they take elements elsewhere as well&lt;/li&gt;
+&lt;li&gt;Interdisciplinary&lt;/li&gt;
+&lt;li&gt;post-colonialism vs. asymmetrical knowledge&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;How is knowledge produced?&lt;/li&gt;
+&lt;li&gt;Dialogues and differences&lt;/li&gt;
+&lt;li&gt;Inter-penetration/confusion - how to foster it?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="socialsciencesdonotequalhumanities"&gt;Social Sciences do not equal Humanities&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Area Studies have multiple objectives and purposes
+&lt;ul&gt;&lt;li&gt;Deep knowledge&lt;/li&gt;
+&lt;li&gt;Place&lt;/li&gt;
+&lt;li&gt;Multi-disciplinary&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Most disciplinary departments ignore areas
+&lt;ul&gt;&lt;li&gt;narrowed interests
+&lt;ul&gt;&lt;li&gt;this is not true for Humanities because it recruits around knowledge&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Dealing with departmental bureaucracy
+&lt;ul&gt;&lt;li&gt;the need to intervene and place area studies in the disciplines&lt;/li&gt;
+&lt;li&gt;think outside of the box&lt;/li&gt;
+&lt;li&gt;traditional interdisciplinary conversations have become increasingly difficult&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;How to foster interdisciplinary conversations
+&lt;ul&gt;&lt;li&gt;Have deep understanding of a culture - traditional&lt;/li&gt;
+&lt;li&gt;Idiosyncratic-disciplinary conversation&lt;/li&gt;
+&lt;li&gt;Problem-driven strategies&lt;/li&gt;
+&lt;li&gt;To sum up:
+&lt;ul&gt;&lt;li&gt;Deep area knowledge&lt;/li&gt;
+&lt;li&gt;Robust training&lt;/li&gt;
+&lt;li&gt;Specialization (niche)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="statusquo"&gt;Status Quo&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The number of area studies specialists in Social Sciences have dropped from 2008-2014; courses have dropped 38%; mostly offered in history&lt;/li&gt;
+&lt;li&gt;Humanities does not recruit full-time instructors/lecturers&lt;/li&gt;
+&lt;li&gt;Drawbacks:
+&lt;ul&gt;&lt;li&gt;The lack of deep knowledge of cultures for policy making&lt;/li&gt;
+&lt;li&gt;Shortage of specialists&lt;/li&gt;
+&lt;li&gt;Students don’t get the opportunities to think outside of their cultures&lt;/li&gt;
+&lt;li&gt;Global economy&lt;/li&gt;
+&lt;li&gt;Reproduction of academic hierarchies&lt;/li&gt;
+&lt;li&gt;Production of social scientific knowledge
+&lt;ul&gt;&lt;li&gt;empirical information: results, testing&lt;/li&gt;
+&lt;li&gt;scholars cater to neoliberalism and publish in disciplinary journals&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Past successful cases: Benedict Anderson, Jim Scott&lt;/li&gt;
+&lt;li&gt;There’s the need to compare specific cases with the global phenomena to find theories and exceptions.&lt;/li&gt;
+&lt;li&gt;Solution
+&lt;ul&gt;&lt;li&gt;Be fluent in methodologies&lt;/li&gt;
+&lt;li&gt;Critique from within&lt;/li&gt;
+&lt;li&gt;Pay attention to:
+&lt;ul&gt;&lt;li&gt;specification error&lt;/li&gt;
+&lt;li&gt;measurement error&lt;/li&gt;
+&lt;li&gt;level of analysis (ecological fallacy)&lt;/li&gt;
+&lt;li&gt;careful interpretation of quantitative analysis&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="thefutureforareaspecialistsinsocialsciences"&gt;The Future for Area Specialists in Social Sciences&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Study a SS PhD with area studies skills in place&lt;/li&gt;
+&lt;li&gt;Departments can nominate people (based on other departments’ curriculum needs)&lt;/li&gt;
+&lt;li&gt;Multi-disciplinary
+&lt;ul&gt;&lt;li&gt;For what purpose?&lt;/li&gt;
+&lt;li&gt;Whom?&lt;/li&gt;
+&lt;li&gt;Why&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Participate in &lt;strong&gt;problem-driven&lt;/strong&gt; projects
+&lt;ul&gt;&lt;li&gt;various areas&lt;/li&gt;
+&lt;li&gt;common issues&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Reinvent the relationships between SS and AS&lt;/li&gt;
+&lt;li&gt;University intervention&lt;/li&gt;
+&lt;li&gt;In the perspectives of SSEES
+&lt;ul&gt;&lt;li&gt;island studies&lt;/li&gt;
+&lt;li&gt;urban studies&lt;/li&gt;
+&lt;li&gt;convenience of organizing funding&lt;/li&gt;
+&lt;li&gt;asking the right questions&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title>Book Launch: In War: Stories from Ukraine</title><description>&lt;h1 id="inwarstoriesfromukraine"&gt;In War: Stories from Ukraine&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;The first person who died would be named; the rest are just numbers.&lt;/li&gt;
