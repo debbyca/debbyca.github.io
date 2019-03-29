@@ -1,18 +1,39 @@
 ---
-layout: page
-title: About
-permalink: /about/
+title: About Garth
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+A stupidly simple theme for Jekyll, using the official Jekyll theme implementation.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- [Fork on GitHub](https://github.com/daviddarnes/garth)
+- [Install Garth](https://github.com/daviddarnes/garth#installation)
+- [Tip me $5](https://www.paypal.me/daviddarnes/5usd)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Installation
 
+### As a Jekyll theme
 
-[jekyll-organization]: https://github.com/jekyll
+1. Add `gem "garth-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
+2. Run the command `bundle install` in the root of project to install the theme and its dependancies
+3. Add `theme: garth-jekyll-theme` to your `_config.yml` file to set the site theme
+4. Run `bundle exec jekyll serve` to build and serve your site
+5. Done! Use the example [`_config.yml`](https://github.com/daviddarnes/garth/blob/master/_config.yml) file to set site-wide options
+
+### As a GitHub Pages remote theme
+
+1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
+2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
+3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
+4. Add `remote_theme: daviddarnes/garth` to your `_config.yml` file to set the site theme
+5. Run `bundle exec jekyll serve` to build and serve your site
+6. Done! Use the example [`_config.yml`](https://github.com/daviddarnes/garth/blob/master/_config.yml) file to set site-wide options
+
+### As a Boilerplate / Fork
+
+_(deprecated, not recommended)_
+
+1. [Fork the repo](https://github.com/daviddarnes/garth#fork-destination-box)
+2. Replace the `Gemfile` with one stating all the gems used in your project
+3. Delete the following unnecessary files/folders: `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, `LICENSE`, `screenshot.png`, `CNAME` and `garth-jekyll-theme.gemspec`
+4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
+5. Run `bundle exec jekyll serve` to build and serve your site
+6. Done! Use the example [`_config.yml`](https://github.com/daviddarnes/garth/blob/master/_config.yml) file to set site-wide options
