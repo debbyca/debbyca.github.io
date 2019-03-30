@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+			<title>Setting up Jekyll - The Past Is Yours, but the Future Is Mine</title>
+		
+
+		<link rel="stylesheet" href="/assets/styles.css">
+
+		
+			<link rel="shortcut icon" href="/assets/logo.svg">
+		
+
+	</head>
+	<body>
+
+		<header class="header">
+  <div class="container">
+    <a class="logo" href="/">
+  <img src="/assets/logo.svg" alt="The Past Is Yours, but the Future Is Mine logo"/>
+</a>
+
+    <nav class="nav">
+  <ul class="list list--nav">
+    
+      
+        <li class="item  item--nav">
+          
+            <a href="/404/"></a>
+      		
+        </li>
+      
+    
+      
+    
+      
+        <li class="item  item--nav">
+          
+            <a href="/about/">About</a>
+      		
+        </li>
+      
+    
+      
+        <li class="item  item--nav">
+          
+      			
+      			<a href="/">Blog</a>
+      		
+        </li>
+      
+    
+      
+        <li class="item  item--nav">
+          
+            <a href="/"></a>
+      		
+        </li>
+      
+    
+      
+    
+  </ul>
+</nav>
+
+  </div>
+</header>
+
+
+<main class="main  container">
+
+	<article class="article  article--post  content  typeset">
+
+    <h1>Setting up Jekyll</h1>
+		
+
+<small class="small  post-meta">
+  
+    
+      <span class="label  label--category">Jekyll</span>
+    
+  &nbsp;&middot;&nbsp;<time datetime="2019-03-29T00:00:00+00:00" class="time">29 Mar 2019</time>
+</small>
+
+    <p>I thought it would be easy to set up Jekyll, but in the end I still encountered a few difficulties.</p>
+
+<!-- more -->
+
+<h2 id="preserving-my-old-msc-project-pages">Preserving my old Msc project pages</h2>
+<p>When I studied my Msc at UCL, I used Github Pages to host my <a href="/tag/assessed-project/">research project</a> on reading activities and the home. Originally I used <a href="https://ghost.org/">Ghost</a> to host the content and converted the content into static pages and host it on Github. However, I lost the database file for Ghost and could no longer update the blog. I still want to preserve the content as it is while finding a way to keep the site alive.</p>
+
+<h2 id="using-jekyll">Using Jekyll</h2>
+
+<p>Recently I found Jekyll. With instructions from <a href="https://ithelp.ithome.com.tw/articles/10198964">here</a>, <a href="https://github.com/jekyll/jekyll/issues/5165">here</a>, and resolving a few file conflicts, I was able to host it on Github Pages.</p>
+
+<h2 id="running-jekyll-locally-on-windows-10">Running Jekyll locally on Windows 10</h2>
+
+<p>Setting up Jekyll on a Mac was painless, but it was a different story on Windows. It seems that Ruby (the language Jekyll is written in) and Windows are known to be incompatible. I followed the guide <a href="https://davidburela.wordpress.com/2015/11/28/easily-install-jekyll-on-windows-with-3-command-prompt-entries-and-chocolatey/">here</a> to install Ruby on Windows 10.</p>
+
+<h2 id="changing-the-theme">Changing the theme</h2>
+
+<p>The default theme <code class="highlighter-rouge">minima</code> was frankly, not very pretty. I found the theme <a href="https://garth.darn.es/">Garth</a>, which met my needs. I forked it and resolved a few dependency errors, and it worked perfectly.</p>
+
+<h2 id="solving-a-unicode-issue-on-windows">Solving a Unicode issue on Windows</h2>
+
+<p>When I switched to my Windows machine at home, I encountered an issue while generating the Jekyll blog locally. After some research, it turned out to be an issue with encoding. Following the instructions here, finally everything worked out.</p>
+
+<p>I’m so happy that this site is alive again. 😃</p>
+
+
+  </article>
+
+</main>
+
+<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">&copy; The Past Is Yours, but the Future Is Mine 2019 <br></br> Icons made by <a href="https://www.flaticon.com/authors/smalllikeart" title="smalllikeart">smalllikeart</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></small>
+    </div>
+  </div>
+</footer>
+
+
+
+		<link href="https://fonts.googleapis.com/css?family=Alegreya+Sans:400,400i,700|Neuton:400,700" rel="stylesheet">
+	</body>
+</html>
