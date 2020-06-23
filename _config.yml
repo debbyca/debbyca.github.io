@@ -40,6 +40,8 @@ collections:
     title: Blog # Needed for Siteleaf
     output: true
     description: "Thoughts and ideas." # The post list page content
+  category:
+    output: true
 
 # 6. Jekyll collections settings
 defaults:
@@ -55,6 +57,12 @@ defaults:
       type: posts
     values:
       layout: post # Default layout
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category" # Default layout
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
