@@ -7,4 +7,4 @@ I've tried almost all note-taking apps on the market that I could get my hands o
 
 <!-- more -->
 
-With the rising popularity of Roam Research, interconnectivity between notes has gained attention. I can definitely see how the feature would be useful to me. Rather than biting the bullet and paying for the subscription fees of Roam Research, I explored TiddlyWiki, Obsidian, and a Jekyll theme called [**Simply Jekyll**](https://simply-jekyll.netlify.app/) that claims to support bi-directional linking. None of these worked particularly well for me. Why is it so difficult for me to settle on a tool? 
+With the rising popularity of Roam Research, interconnectivity between notes has gained attention. I can definitely see how the feature would be useful to me. Rather than biting the bullet and paying for the Roam Research subscription, I explored TiddlyWiki, Obsidian, and a Jekyll theme called [**Simply Jekyll**](https://simply-jekyll.netlify.app/) that claims to support bi-directional linking. None of these worked particularly well for me. Why is it so difficult for me to settle on a tool? 
