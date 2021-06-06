@@ -3,7 +3,7 @@ title: A text renaissance?
 category: Note-taking
 ---
 
-I've tried almost all note-taking apps on the market that I could get my hands on. Just this year I have tried Joplin, Standard Notes, Inkdrop, Notion, Numbus Note, Obsidian, and Roam Research. This led to a lot of time spent fiddling with tools rather than getting actual notes taken. 
+I've tried almost all note-taking apps on the market that I could get my hands on. Just this year I have tried Joplin, Standard Notes, Inkdrop, Notion, Nimbus Note, Obsidian, and Roam Research. This led to a lot of time spent fiddling with tools rather than getting actual notes taken. 
 
 <!-- more -->
 
