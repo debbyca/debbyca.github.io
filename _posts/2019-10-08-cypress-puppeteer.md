@@ -7,7 +7,7 @@ As mentioned in a previous post, I used Cypress.io to run E2E testing. However, 
 
 <!-- more -->
 
-Unwilling to let my tests go to waste, I managed to call Puppeteer from Cypress and present the test results in the same report.
+I found the solution by calling Puppeteer from Cypress and present the test results in the same report.
 
 The trick is to create cypress tasks and call puppeteer in a plugin file. I got how it can be done from [this GitHub thread](https://github.com/cypress-io/cypress/issues/2427).
 
